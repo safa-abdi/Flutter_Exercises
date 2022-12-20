@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436113200821",
+    "project_id": "tp6-fb",
+    "storage_bucket": "tp6-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436113200821:android:965743d18e30ae9a4d90fc",
+        "android_client_info": {
+          "package_name": "com.example.prod_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436113200821-5nkk227hfsg50rlk7nb5nlta5a927q7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZmMmb6gc1M0j1dDgPYWQzfm1tSGy4Flg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436113200821-5nkk227hfsg50rlk7nb5nlta5a927q7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
